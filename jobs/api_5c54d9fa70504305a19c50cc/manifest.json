@@ -1,0 +1,32 @@
+{
+  "job_id": "api_5c54d9fa70504305a19c50cc",
+  "mode": "zip_split",
+  "file_url": "https://vip-dl2.myalphadl.com/VtKrRiH9z171hCtznpljjg/Breaking.Bad.S01E04.720p.BluRay.PaHe.mkv",
+  "suggested_filename": "Breaking.Bad.S01E04.720p.BluRay.PaHe.mkv",
+  "total_size_bytes": 367391503,
+  "created_at_utc": "2026-05-22T06:24:01.704810+00:00",
+  "zip_folder": "jobs/api_5c54d9fa70504305a19c50cc/zip",
+  "zip_main_file": "Breaking.Bad.S01E04.720p.BluRay.PaHe_split.zip",
+  "zip_parts": [
+    {
+      "name": "Breaking.Bad.S01E04.720p.BluRay.PaHe_split.z01",
+      "path": "jobs/api_5c54d9fa70504305a19c50cc/zip/Breaking.Bad.S01E04.720p.BluRay.PaHe_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Breaking.Bad.S01E04.720p.BluRay.PaHe_split.z02",
+      "path": "jobs/api_5c54d9fa70504305a19c50cc/zip/Breaking.Bad.S01E04.720p.BluRay.PaHe_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Breaking.Bad.S01E04.720p.BluRay.PaHe_split.z03",
+      "path": "jobs/api_5c54d9fa70504305a19c50cc/zip/Breaking.Bad.S01E04.720p.BluRay.PaHe_split.z03",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Breaking.Bad.S01E04.720p.BluRay.PaHe_split.zip",
+      "path": "jobs/api_5c54d9fa70504305a19c50cc/zip/Breaking.Bad.S01E04.720p.BluRay.PaHe_split.zip",
+      "size_bytes": 84276217
+    }
+  ]
+}
