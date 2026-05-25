@@ -1,0 +1,37 @@
+{
+  "job_id": "api_5c24bcc596f24747995e8f90",
+  "mode": "zip_split",
+  "file_url": "https://free-dl15.myalphadl.com/lI51PjtGaSQi67TV-GZFew/Breaking.Bad.S02E01.720p.BluRay.mkv",
+  "suggested_filename": "Breaking.Bad.S02E01.720p.BluRay.mkv",
+  "total_size_bytes": 424050743,
+  "created_at_utc": "2026-05-25T17:19:20.189083+00:00",
+  "zip_folder": "jobs/api_5c24bcc596f24747995e8f90/zip",
+  "zip_main_file": "Breaking.Bad.S02E01.720p.BluRay_split.zip",
+  "zip_parts": [
+    {
+      "name": "Breaking.Bad.S02E01.720p.BluRay_split.z01",
+      "path": "jobs/api_5c24bcc596f24747995e8f90/zip/Breaking.Bad.S02E01.720p.BluRay_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Breaking.Bad.S02E01.720p.BluRay_split.z02",
+      "path": "jobs/api_5c24bcc596f24747995e8f90/zip/Breaking.Bad.S02E01.720p.BluRay_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Breaking.Bad.S02E01.720p.BluRay_split.z03",
+      "path": "jobs/api_5c24bcc596f24747995e8f90/zip/Breaking.Bad.S02E01.720p.BluRay_split.z03",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Breaking.Bad.S02E01.720p.BluRay_split.z04",
+      "path": "jobs/api_5c24bcc596f24747995e8f90/zip/Breaking.Bad.S02E01.720p.BluRay_split.z04",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Breaking.Bad.S02E01.720p.BluRay_split.zip",
+      "path": "jobs/api_5c24bcc596f24747995e8f90/zip/Breaking.Bad.S02E01.720p.BluRay_split.zip",
+      "size_bytes": 46563607
+    }
+  ]
+}
